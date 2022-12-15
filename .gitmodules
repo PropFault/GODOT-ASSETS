@@ -1,0 +1,9 @@
+[submodule "GDA_VENDING_MACHINES"]
+	path = GDA_VENDING_MACHINES
+	url = https://github.com/PropFault/GDA_VENDING_MACHINES.git
+[submodule "GDA_INPUT"]
+	path = GDA_INPUT
+	url = https://github.com/PropFault/GDA_INPUT.git
+[submodule "GDA_INTERACTABLE"]
+	path = GDA_INTERACTABLE
+	url = https://github.com/PropFault/GDA_INTERACTABLE.git
